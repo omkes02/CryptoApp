@@ -33,6 +33,8 @@ The application provides a simple and intuitive graphical user interface with th
 ├── cryptopp
 │   ├── include
 │   └── libcryptopp.a
+├── images
+│   └── gui_mockup.png
 ├── main.cpp
 └── src
     ├── crypto
@@ -67,7 +69,7 @@ The project is built using CMake. You will need to have CMake and a C++ compiler
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/omkes02/CryptoApp.git
     ```
 2.  **Create a build directory:**
     ```bash
@@ -101,3 +103,6 @@ The application can be configured through the `config/config.json` file. The fol
 
 *   **Qt6:** A cross-platform application development framework.
 *   **Crypto++:** A free C++ class library of cryptographic schemes.
+## Screenshots
+
+![Application Screenshot](images/image.png)

@@ -1,0 +1,8 @@
+{
+    "dsa_key_size": 2048,
+    "hash_algorithm": "SHA256",
+    "keys_dir": "keys",
+    "output_dir": "output",
+    "rsa_key_size": 2048,
+    "rsa_padding": "PKCS1v15"
+}

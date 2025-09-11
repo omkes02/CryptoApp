@@ -81,7 +81,7 @@ The project is built using CMake. You will need to have CMake and a C++ compiler
     ```
 4.  **Build the project:**
     ```bash
-    cmake --build .
+    cmake --build 
     ```
 
 ## Usage
@@ -103,6 +103,6 @@ The application can be configured through the `config/config.json` file. The fol
 
 *   **Qt6:** A cross-platform application development framework.
 *   **Crypto++:** A free C++ class library of cryptographic schemes.
-## Screenshots
+## Application Screenshot
 
 ![Application Screenshot](images/image.png)
